@@ -1,1 +1,1 @@
-# Blank React-project
+# Blank React-project for quick start
